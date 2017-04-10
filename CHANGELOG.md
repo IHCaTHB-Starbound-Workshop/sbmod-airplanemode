@@ -1,8 +1,5 @@
 # sbmod-airplanemode
 # changelog
 
-### vur
-+ b
-
-### v0.1 yyyy-mm-dd
-+ a
+### v0.1 2017-04-10
+* changed run sequence to just "airplane arms"

@@ -1,6 +1,6 @@
 # sbmod-airplanemode
 # documentation
-last updated yyyy-mm-dd for version 0.1
+last updated 2017-04-10 for version 0.1
 
 ## backend
 ### compatibility
